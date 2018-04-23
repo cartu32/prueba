@@ -1,3 +1,3 @@
-BRANCH TESTEO:
+BRANCH MASTER:
 =============
-Este es el archivo cabecera README.MD del branch Testeo
+Este es el archivo cabecera README.MD del branch MASTER
